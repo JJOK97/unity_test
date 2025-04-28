@@ -1,0 +1,41 @@
+# ========== Unity 기본 무시 목록 ==========
+
+# 빌드 결과물
+[Bb]uild/
+[Bb]uilds/
+
+# 임시 파일들
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ogs/
+MemoryCaptures/
+
+# 자동 생성 파일
+Assets/AssetStoreTools*
+
+# 사용자 설정 파일
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS별 무시 목록
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.orig
+*.log
+*.vs/
+
+# 기타
+*.apk
+*.aab
+*.unitypackage
